@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Leo-am
-- 👀 I’m interested in tools for software development, simulation of quantum systems, and instrumentation for optical labs.
-- 🌱 I’m currently learning how to apply standard techniques of computer science in my research.
-- 💞️ I’m looking to collaborate on software development for simulation/control of quantum experiments.
-- 📫 How to reach me: send me a message @ leoassismorais@hotmail.com
+- My name is Leonardo Assis Morais, I am currently finishing my PhD on quantum physics at The University of Queensland.
+- I’m interested in tools for software development, simulation of quantum systems, and instrumentation for optical labs.
+- Send me a message @ leonardo.assismorais at gmail.com
 
 <!---
 Leo-am/Leo-am is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
